@@ -1,4 +1,6 @@
-c encodeLess.cnfc p cnf 3 7
+c encodeLess.cnf
+c 
+p cnf 3 7
 -1 2
 -2 3
 -4 5
